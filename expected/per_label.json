@@ -1,0 +1,2576 @@
+[
+  {
+    "language": "python",
+    "protocol": "group",
+    "arm": "S",
+    "label": "Usage",
+    "label_index": 0,
+    "support": 272,
+    "f1": 0.4253393665158371,
+    "ci95": [
+      0.33914345214648434,
+      0.5032404466466212
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "group",
+    "arm": "S",
+    "label": "Parameters",
+    "label_index": 1,
+    "support": 335,
+    "f1": 0.3583617747440273,
+    "ci95": [
+      0.2660021179886247,
+      0.44312137849013283
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "group",
+    "arm": "S",
+    "label": "DevelopmentNotes",
+    "label_index": 2,
+    "support": 134,
+    "f1": 0.2018348623853211,
+    "ci95": [
+      0.11160211017430846,
+      0.28954506888805326
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "group",
+    "arm": "S",
+    "label": "Expand",
+    "label_index": 3,
+    "support": 238,
+    "f1": 0.3588039867109635,
+    "ci95": [
+      0.25611544292830846,
+      0.4474620042312088
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "group",
+    "arm": "S",
+    "label": "Summary",
+    "label_index": 4,
+    "support": 183,
+    "f1": 0.3837638376383764,
+    "ci95": [
+      0.31197535411199606,
+      0.4644725219433108
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "group",
+    "arm": "SP",
+    "label": "Usage",
+    "label_index": 0,
+    "support": 272,
+    "f1": 0.5106382978723404,
+    "ci95": [
+      0.4079079777797167,
+      0.6077439024390241
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "group",
+    "arm": "SP",
+    "label": "Parameters",
+    "label_index": 1,
+    "support": 335,
+    "f1": 0.5953360768175583,
+    "ci95": [
+      0.44303515625,
+      0.69941546238847
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "group",
+    "arm": "SP",
+    "label": "DevelopmentNotes",
+    "label_index": 2,
+    "support": 134,
+    "f1": 0.18829516539440203,
+    "ci95": [
+      0.11363329238329238,
+      0.2659846547314578
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "group",
+    "arm": "SP",
+    "label": "Expand",
+    "label_index": 3,
+    "support": 238,
+    "f1": 0.3770491803278688,
+    "ci95": [
+      0.2834632989716865,
+      0.4629101147223066
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "group",
+    "arm": "SP",
+    "label": "Summary",
+    "label_index": 4,
+    "support": 183,
+    "f1": 0.6778846153846154,
+    "ci95": [
+      0.6249929775280899,
+      0.7294700974574747
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "group",
+    "arm": "P",
+    "label": "Usage",
+    "label_index": 0,
+    "support": 272,
+    "f1": 0.53125,
+    "ci95": [
+      0.43548094019040257,
+      0.6232995388579954
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "group",
+    "arm": "P",
+    "label": "Parameters",
+    "label_index": 1,
+    "support": 335,
+    "f1": 0.6474278544542033,
+    "ci95": [
+      0.4901387364008384,
+      0.7562212873658324
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "group",
+    "arm": "P",
+    "label": "DevelopmentNotes",
+    "label_index": 2,
+    "support": 134,
+    "f1": 0.23471074380165288,
+    "ci95": [
+      0.16119168401606895,
+      0.3097753419693813
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "group",
+    "arm": "P",
+    "label": "Expand",
+    "label_index": 3,
+    "support": 238,
+    "f1": 0.40215924426450744,
+    "ci95": [
+      0.31295760357932906,
+      0.48706271549715774
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "group",
+    "arm": "P",
+    "label": "Summary",
+    "label_index": 4,
+    "support": 183,
+    "f1": 0.6724890829694323,
+    "ci95": [
+      0.6193526191180823,
+      0.7217765478391891
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "group",
+    "arm": "SP_matched",
+    "label": "Usage",
+    "label_index": 0,
+    "support": 272,
+    "f1": 0.5076452599388379,
+    "ci95": [
+      0.4027986047772102,
+      0.6075018076300109
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "group",
+    "arm": "SP_matched",
+    "label": "Parameters",
+    "label_index": 1,
+    "support": 335,
+    "f1": 0.5892116182572614,
+    "ci95": [
+      0.4429478969209488,
+      0.689358752550794
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "group",
+    "arm": "SP_matched",
+    "label": "DevelopmentNotes",
+    "label_index": 2,
+    "support": 134,
+    "f1": 0.19306930693069307,
+    "ci95": [
+      0.11631030240811378,
+      0.26799486803519057
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "group",
+    "arm": "SP_matched",
+    "label": "Expand",
+    "label_index": 3,
+    "support": 238,
+    "f1": 0.37643207855973815,
+    "ci95": [
+      0.2822939369922726,
+      0.464793663944451
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "group",
+    "arm": "SP_matched",
+    "label": "Summary",
+    "label_index": 4,
+    "support": 183,
+    "f1": 0.6745843230403801,
+    "ci95": [
+      0.6221140839580898,
+      0.7250690215952498
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "group",
+    "arm": "T",
+    "label": "Usage",
+    "label_index": 0,
+    "support": 272,
+    "f1": 0.22160664819944598,
+    "ci95": [
+      0.15384615384615385,
+      0.2840964795008913
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "group",
+    "arm": "T",
+    "label": "Parameters",
+    "label_index": 1,
+    "support": 335,
+    "f1": 0.4230055658627087,
+    "ci95": [
+      0.34436744138331943,
+      0.4965266003331548
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "group",
+    "arm": "T",
+    "label": "DevelopmentNotes",
+    "label_index": 2,
+    "support": 134,
+    "f1": 0.06349206349206349,
+    "ci95": [
+      0.022598870056497175,
+      0.10666666666666667
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "group",
+    "arm": "T",
+    "label": "Expand",
+    "label_index": 3,
+    "support": 238,
+    "f1": 0.3094688221709007,
+    "ci95": [
+      0.23527007533258534,
+      0.3779240738980258
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "group",
+    "arm": "T",
+    "label": "Summary",
+    "label_index": 4,
+    "support": 183,
+    "f1": 0.3685636856368564,
+    "ci95": [
+      0.3040251305125878,
+      0.4383582212349335
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "group",
+    "arm": "T_exact",
+    "label": "Usage",
+    "label_index": 0,
+    "support": 272,
+    "f1": 0.4781021897810219,
+    "ci95": [
+      0.39192726841980574,
+      0.563442140296979
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "group",
+    "arm": "T_exact",
+    "label": "Parameters",
+    "label_index": 1,
+    "support": 335,
+    "f1": 0.6533333333333333,
+    "ci95": [
+      0.49318117038303844,
+      0.7639756294290487
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "group",
+    "arm": "T_exact",
+    "label": "DevelopmentNotes",
+    "label_index": 2,
+    "support": 134,
+    "f1": 0.10666666666666667,
+    "ci95": [
+      0.049992236024844726,
+      0.17990810359231404
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "group",
+    "arm": "T_exact",
+    "label": "Expand",
+    "label_index": 3,
+    "support": 238,
+    "f1": 0.3931297709923664,
+    "ci95": [
+      0.3175212082017727,
+      0.46224563864078144
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "group",
+    "arm": "T_exact",
+    "label": "Summary",
+    "label_index": 4,
+    "support": 183,
+    "f1": 0.7007299270072993,
+    "ci95": [
+      0.6475747155579501,
+      0.7523006715218008
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "group",
+    "arm": "T_coarse",
+    "label": "Usage",
+    "label_index": 0,
+    "support": 272,
+    "f1": 0.4321608040201005,
+    "ci95": [
+      0.33781031129641165,
+      0.5198874907017108
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "group",
+    "arm": "T_coarse",
+    "label": "Parameters",
+    "label_index": 1,
+    "support": 335,
+    "f1": 0.4415156507413509,
+    "ci95": [
+      0.3452901452060645,
+      0.513988967091497
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "group",
+    "arm": "T_coarse",
+    "label": "DevelopmentNotes",
+    "label_index": 2,
+    "support": 134,
+    "f1": 0.0891089108910891,
+    "ci95": [
+      0.03826397038909452,
+      0.14098475692955434
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "group",
+    "arm": "T_coarse",
+    "label": "Expand",
+    "label_index": 3,
+    "support": 238,
+    "f1": 0.3807531380753138,
+    "ci95": [
+      0.2894657577679138,
+      0.4552828463360903
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "group",
+    "arm": "T_coarse",
+    "label": "Summary",
+    "label_index": 4,
+    "support": 183,
+    "f1": 0.4975124378109453,
+    "ci95": [
+      0.4354733975701718,
+      0.5611235971038818
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "group",
+    "arm": "T_nospan",
+    "label": "Usage",
+    "label_index": 0,
+    "support": 272,
+    "f1": 0.4247787610619469,
+    "ci95": [
+      0.3373785075547333,
+      0.5082804035120492
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "group",
+    "arm": "T_nospan",
+    "label": "Parameters",
+    "label_index": 1,
+    "support": 335,
+    "f1": 0.6649282920469362,
+    "ci95": [
+      0.5128048780487805,
+      0.7750063131313131
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "group",
+    "arm": "T_nospan",
+    "label": "DevelopmentNotes",
+    "label_index": 2,
+    "support": 134,
+    "f1": 0.09821428571428571,
+    "ci95": [
+      0.04060400963954263,
+      0.16949530871670698
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "group",
+    "arm": "T_nospan",
+    "label": "Expand",
+    "label_index": 3,
+    "support": 238,
+    "f1": 0.3654223968565815,
+    "ci95": [
+      0.2872043274823566,
+      0.4356533761484256
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "group",
+    "arm": "T_nospan",
+    "label": "Summary",
+    "label_index": 4,
+    "support": 183,
+    "f1": 0.7047619047619048,
+    "ci95": [
+      0.6515122600046264,
+      0.754533914728682
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "group",
+    "arm": "T_permuted",
+    "label": "Usage",
+    "label_index": 0,
+    "support": 272,
+    "f1": 0.39595959595959596,
+    "ci95": [
+      0.3179629556377445,
+      0.4671269594794439
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "group",
+    "arm": "T_permuted",
+    "label": "Parameters",
+    "label_index": 1,
+    "support": 335,
+    "f1": 0.6232073011734028,
+    "ci95": [
+      0.48564656168181114,
+      0.7232342714554528
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "group",
+    "arm": "T_permuted",
+    "label": "DevelopmentNotes",
+    "label_index": 2,
+    "support": 134,
+    "f1": 0.1085972850678733,
+    "ci95": [
+      0.0542583280955374,
+      0.16982135688478517
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "group",
+    "arm": "T_permuted",
+    "label": "Expand",
+    "label_index": 3,
+    "support": 238,
+    "f1": 0.31827956989247314,
+    "ci95": [
+      0.24925867707685576,
+      0.384625
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "group",
+    "arm": "T_permuted",
+    "label": "Summary",
+    "label_index": 4,
+    "support": 183,
+    "f1": 0.5343137254901961,
+    "ci95": [
+      0.4618775017752,
+      0.6054601953240604
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "project",
+    "arm": "S",
+    "label": "Usage",
+    "label_index": 0,
+    "support": 272,
+    "f1": 0.3753501400560224,
+    "ci95": [
+      0.2893822319924754,
+      0.45908224260537966
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "project",
+    "arm": "S",
+    "label": "Parameters",
+    "label_index": 1,
+    "support": 335,
+    "f1": 0.32532347504621073,
+    "ci95": [
+      0.21499279324055665,
+      0.4144490658233605
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "project",
+    "arm": "S",
+    "label": "DevelopmentNotes",
+    "label_index": 2,
+    "support": 134,
+    "f1": 0.2222222222222222,
+    "ci95": [
+      0.12636614817846908,
+      0.3076923076923077
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "project",
+    "arm": "S",
+    "label": "Expand",
+    "label_index": 3,
+    "support": 238,
+    "f1": 0.33276157804459694,
+    "ci95": [
+      0.2310488047808765,
+      0.42748354830218477
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "project",
+    "arm": "S",
+    "label": "Summary",
+    "label_index": 4,
+    "support": 183,
+    "f1": 0.4015151515151515,
+    "ci95": [
+      0.32374776241326125,
+      0.487723896434635
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "project",
+    "arm": "SP",
+    "label": "Usage",
+    "label_index": 0,
+    "support": 272,
+    "f1": 0.4575342465753425,
+    "ci95": [
+      0.35858618579707013,
+      0.5585345036415542
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "project",
+    "arm": "SP",
+    "label": "Parameters",
+    "label_index": 1,
+    "support": 335,
+    "f1": 0.625,
+    "ci95": [
+      0.4897711696618946,
+      0.7205743746978737
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "project",
+    "arm": "SP",
+    "label": "DevelopmentNotes",
+    "label_index": 2,
+    "support": 134,
+    "f1": 0.23433242506811988,
+    "ci95": [
+      0.15032238120473415,
+      0.31251146088019555
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "project",
+    "arm": "SP",
+    "label": "Expand",
+    "label_index": 3,
+    "support": 238,
+    "f1": 0.34444444444444444,
+    "ci95": [
+      0.23528783308195073,
+      0.44416211311829695
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "project",
+    "arm": "SP",
+    "label": "Summary",
+    "label_index": 4,
+    "support": 183,
+    "f1": 0.6551724137931034,
+    "ci95": [
+      0.5985739549560484,
+      0.7089305164319248
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "project",
+    "arm": "P",
+    "label": "Usage",
+    "label_index": 0,
+    "support": 272,
+    "f1": 0.5319465081723626,
+    "ci95": [
+      0.4412785220849906,
+      0.613072900544663
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "project",
+    "arm": "P",
+    "label": "Parameters",
+    "label_index": 1,
+    "support": 335,
+    "f1": 0.6591194968553459,
+    "ci95": [
+      0.5086705202312138,
+      0.7644726438414311
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "project",
+    "arm": "P",
+    "label": "DevelopmentNotes",
+    "label_index": 2,
+    "support": 134,
+    "f1": 0.18214285714285713,
+    "ci95": [
+      0.12317668901867475,
+      0.24889156626506023
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "project",
+    "arm": "P",
+    "label": "Expand",
+    "label_index": 3,
+    "support": 238,
+    "f1": 0.35522388059701493,
+    "ci95": [
+      0.26456612799853507,
+      0.443273306948109
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "project",
+    "arm": "P",
+    "label": "Summary",
+    "label_index": 4,
+    "support": 183,
+    "f1": 0.6484018264840182,
+    "ci95": [
+      0.5916804185730764,
+      0.6995520506553244
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "project",
+    "arm": "SP_matched",
+    "label": "Usage",
+    "label_index": 0,
+    "support": 272,
+    "f1": 0.44566712517193946,
+    "ci95": [
+      0.3480189794145573,
+      0.545185692541857
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "project",
+    "arm": "SP_matched",
+    "label": "Parameters",
+    "label_index": 1,
+    "support": 335,
+    "f1": 0.601360544217687,
+    "ci95": [
+      0.46727792502937177,
+      0.6976257745486838
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "project",
+    "arm": "SP_matched",
+    "label": "DevelopmentNotes",
+    "label_index": 2,
+    "support": 134,
+    "f1": 0.22764227642276422,
+    "ci95": [
+      0.14110017704945033,
+      0.30639147148220985
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "project",
+    "arm": "SP_matched",
+    "label": "Expand",
+    "label_index": 3,
+    "support": 238,
+    "f1": 0.32541133455210236,
+    "ci95": [
+      0.21839406249517307,
+      0.43137254901960786
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "project",
+    "arm": "SP_matched",
+    "label": "Summary",
+    "label_index": 4,
+    "support": 183,
+    "f1": 0.6520681265206812,
+    "ci95": [
+      0.5948648648648649,
+      0.7047629944426284
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "project",
+    "arm": "T",
+    "label": "Usage",
+    "label_index": 0,
+    "support": 272,
+    "f1": 0.16292134831460675,
+    "ci95": [
+      0.10438687035507845,
+      0.2207397793640493
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "project",
+    "arm": "T",
+    "label": "Parameters",
+    "label_index": 1,
+    "support": 335,
+    "f1": 0.34375,
+    "ci95": [
+      0.27049107403302025,
+      0.41907371167645124
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "project",
+    "arm": "T",
+    "label": "DevelopmentNotes",
+    "label_index": 2,
+    "support": 134,
+    "f1": 0.058823529411764705,
+    "ci95": [
+      0.02104987599889777,
+      0.0986759029962295
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "project",
+    "arm": "T",
+    "label": "Expand",
+    "label_index": 3,
+    "support": 238,
+    "f1": 0.3094688221709007,
+    "ci95": [
+      0.24633210923533505,
+      0.3732278566599053
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "project",
+    "arm": "T",
+    "label": "Summary",
+    "label_index": 4,
+    "support": 183,
+    "f1": 0.35323383084577115,
+    "ci95": [
+      0.29200739451935626,
+      0.41500961538461534
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "project",
+    "arm": "T_exact",
+    "label": "Usage",
+    "label_index": 0,
+    "support": 272,
+    "f1": 0.4701627486437613,
+    "ci95": [
+      0.38722232953447944,
+      0.5485090618336886
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "project",
+    "arm": "T_exact",
+    "label": "Parameters",
+    "label_index": 1,
+    "support": 335,
+    "f1": 0.6526315789473685,
+    "ci95": [
+      0.5023632345914955,
+      0.7586298728132604
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "project",
+    "arm": "T_exact",
+    "label": "DevelopmentNotes",
+    "label_index": 2,
+    "support": 134,
+    "f1": 0.11206896551724138,
+    "ci95": [
+      0.06306306306306306,
+      0.17438596491228053
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "project",
+    "arm": "T_exact",
+    "label": "Expand",
+    "label_index": 3,
+    "support": 238,
+    "f1": 0.32679738562091504,
+    "ci95": [
+      0.24136448360586293,
+      0.40556824482423126
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "project",
+    "arm": "T_exact",
+    "label": "Summary",
+    "label_index": 4,
+    "support": 183,
+    "f1": 0.6716791979949874,
+    "ci95": [
+      0.6119374208648275,
+      0.7245766129032257
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "project",
+    "arm": "T_coarse",
+    "label": "Usage",
+    "label_index": 0,
+    "support": 272,
+    "f1": 0.41796200345423146,
+    "ci95": [
+      0.3258209654565059,
+      0.5021727856170451
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "project",
+    "arm": "T_coarse",
+    "label": "Parameters",
+    "label_index": 1,
+    "support": 335,
+    "f1": 0.39215686274509803,
+    "ci95": [
+      0.3091264328274609,
+      0.45871635328670485
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "project",
+    "arm": "T_coarse",
+    "label": "DevelopmentNotes",
+    "label_index": 2,
+    "support": 134,
+    "f1": 0.10526315789473684,
+    "ci95": [
+      0.04443830570902394,
+      0.16154255319148936
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "project",
+    "arm": "T_coarse",
+    "label": "Expand",
+    "label_index": 3,
+    "support": 238,
+    "f1": 0.321353065539112,
+    "ci95": [
+      0.2494958811952679,
+      0.393378647603422
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "project",
+    "arm": "T_coarse",
+    "label": "Summary",
+    "label_index": 4,
+    "support": 183,
+    "f1": 0.5033333333333333,
+    "ci95": [
+      0.4403861254465157,
+      0.5674836258032625
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "project",
+    "arm": "T_nospan",
+    "label": "Usage",
+    "label_index": 0,
+    "support": 272,
+    "f1": 0.4019448946515397,
+    "ci95": [
+      0.3227988576091391,
+      0.4813164095158471
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "project",
+    "arm": "T_nospan",
+    "label": "Parameters",
+    "label_index": 1,
+    "support": 335,
+    "f1": 0.6589446589446589,
+    "ci95": [
+      0.5116887030915808,
+      0.76633798599879
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "project",
+    "arm": "T_nospan",
+    "label": "DevelopmentNotes",
+    "label_index": 2,
+    "support": 134,
+    "f1": 0.11158798283261803,
+    "ci95": [
+      0.06222107081174438,
+      0.1732343724891531
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "project",
+    "arm": "T_nospan",
+    "label": "Expand",
+    "label_index": 3,
+    "support": 238,
+    "f1": 0.31221719457013575,
+    "ci95": [
+      0.23527686734517853,
+      0.3952981283422459
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "project",
+    "arm": "T_nospan",
+    "label": "Summary",
+    "label_index": 4,
+    "support": 183,
+    "f1": 0.6851385390428212,
+    "ci95": [
+      0.6296222222222222,
+      0.7355163727959698
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "project",
+    "arm": "T_permuted",
+    "label": "Usage",
+    "label_index": 0,
+    "support": 272,
+    "f1": 0.36327345309381237,
+    "ci95": [
+      0.2864315509586769,
+      0.4343904685161736
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "project",
+    "arm": "T_permuted",
+    "label": "Parameters",
+    "label_index": 1,
+    "support": 335,
+    "f1": 0.599476439790576,
+    "ci95": [
+      0.45655834914611004,
+      0.699898753894081
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "project",
+    "arm": "T_permuted",
+    "label": "DevelopmentNotes",
+    "label_index": 2,
+    "support": 134,
+    "f1": 0.09565217391304348,
+    "ci95": [
+      0.047901805949853285,
+      0.14841143703612264
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "project",
+    "arm": "T_permuted",
+    "label": "Expand",
+    "label_index": 3,
+    "support": 238,
+    "f1": 0.273972602739726,
+    "ci95": [
+      0.20331734593159756,
+      0.3488953944273093
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "project",
+    "arm": "T_permuted",
+    "label": "Summary",
+    "label_index": 4,
+    "support": 183,
+    "f1": 0.5233160621761658,
+    "ci95": [
+      0.44937530219514554,
+      0.5955512645767074
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "group",
+    "arm": "S",
+    "label": "Keyimplementationpoints",
+    "label_index": 0,
+    "support": 115,
+    "f1": 0.36900369003690037,
+    "ci95": [
+      0.10137601615492156,
+      0.5879588944011339
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "group",
+    "arm": "S",
+    "label": "Example",
+    "label_index": 1,
+    "support": 316,
+    "f1": 0.621160409556314,
+    "ci95": [
+      0.5206003209706718,
+      0.6997432908540817
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "group",
+    "arm": "S",
+    "label": "Responsibilities",
+    "label_index": 2,
+    "support": 138,
+    "f1": 0.3741339491916859,
+    "ci95": [
+      0.30049903884100776,
+      0.45812998520642373
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "group",
+    "arm": "S",
+    "label": "Intent",
+    "label_index": 3,
+    "support": 86,
+    "f1": 0.38571428571428573,
+    "ci95": [
+      0.2968197879858657,
+      0.4782651321398124
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "group",
+    "arm": "S",
+    "label": "Keymessages",
+    "label_index": 4,
+    "support": 134,
+    "f1": 0.2865853658536585,
+    "ci95": [
+      0.19794637874875096,
+      0.3812158746617845
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "group",
+    "arm": "S",
+    "label": "Collaborators",
+    "label_index": 5,
+    "support": 44,
+    "f1": 0.21714285714285714,
+    "ci95": [
+      0.12367978119082686,
+      0.30771144278606954
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "group",
+    "arm": "SP",
+    "label": "Keyimplementationpoints",
+    "label_index": 0,
+    "support": 115,
+    "f1": 0.3665594855305466,
+    "ci95": [
+      0.10628019323671498,
+      0.6026895967442435
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "group",
+    "arm": "SP",
+    "label": "Example",
+    "label_index": 1,
+    "support": 316,
+    "f1": 0.6666666666666666,
+    "ci95": [
+      0.5730105321934689,
+      0.7461043692788355
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "group",
+    "arm": "SP",
+    "label": "Responsibilities",
+    "label_index": 2,
+    "support": 138,
+    "f1": 0.5567567567567567,
+    "ci95": [
+      0.4852022636763781,
+      0.6264494371984991
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "group",
+    "arm": "SP",
+    "label": "Intent",
+    "label_index": 3,
+    "support": 86,
+    "f1": 0.6956521739130435,
+    "ci95": [
+      0.628311102560814,
+      0.7601847350510451
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "group",
+    "arm": "SP",
+    "label": "Keymessages",
+    "label_index": 4,
+    "support": 134,
+    "f1": 0.358974358974359,
+    "ci95": [
+      0.2474687313877308,
+      0.4666751269035533
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "group",
+    "arm": "SP",
+    "label": "Collaborators",
+    "label_index": 5,
+    "support": 44,
+    "f1": 0.23863636363636365,
+    "ci95": [
+      0.13470285495705395,
+      0.3370819179513979
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "group",
+    "arm": "P",
+    "label": "Keyimplementationpoints",
+    "label_index": 0,
+    "support": 115,
+    "f1": 0.36754176610978523,
+    "ci95": [
+      0.13619375717715837,
+      0.5844021672396855
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "group",
+    "arm": "P",
+    "label": "Example",
+    "label_index": 1,
+    "support": 316,
+    "f1": 0.6358543417366946,
+    "ci95": [
+      0.5474358558815522,
+      0.7140705358846071
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "group",
+    "arm": "P",
+    "label": "Responsibilities",
+    "label_index": 2,
+    "support": 138,
+    "f1": 0.5782493368700266,
+    "ci95": [
+      0.5072412737293326,
+      0.6475287757878866
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "group",
+    "arm": "P",
+    "label": "Intent",
+    "label_index": 3,
+    "support": 86,
+    "f1": 0.6694915254237288,
+    "ci95": [
+      0.6017699115044248,
+      0.7384647302904565
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "group",
+    "arm": "P",
+    "label": "Keymessages",
+    "label_index": 4,
+    "support": 134,
+    "f1": 0.34507042253521125,
+    "ci95": [
+      0.22771832572478806,
+      0.45725631873618827
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "group",
+    "arm": "P",
+    "label": "Collaborators",
+    "label_index": 5,
+    "support": 44,
+    "f1": 0.17843866171003717,
+    "ci95": [
+      0.1111111111111111,
+      0.24537012450581216
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "group",
+    "arm": "SP_matched",
+    "label": "Keyimplementationpoints",
+    "label_index": 0,
+    "support": 115,
+    "f1": 0.3818770226537217,
+    "ci95": [
+      0.09772289720841897,
+      0.6380358350236645
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "group",
+    "arm": "SP_matched",
+    "label": "Example",
+    "label_index": 1,
+    "support": 316,
+    "f1": 0.6534351145038167,
+    "ci95": [
+      0.5603280231748076,
+      0.7326502130878665
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "group",
+    "arm": "SP_matched",
+    "label": "Responsibilities",
+    "label_index": 2,
+    "support": 138,
+    "f1": 0.5621621621621622,
+    "ci95": [
+      0.48977928127772846,
+      0.6315992423217425
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "group",
+    "arm": "SP_matched",
+    "label": "Intent",
+    "label_index": 3,
+    "support": 86,
+    "f1": 0.6896551724137931,
+    "ci95": [
+      0.6216216216216216,
+      0.7522306090577823
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "group",
+    "arm": "SP_matched",
+    "label": "Keymessages",
+    "label_index": 4,
+    "support": 134,
+    "f1": 0.35978835978835977,
+    "ci95": [
+      0.24760834670947032,
+      0.47033270215095113
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "group",
+    "arm": "SP_matched",
+    "label": "Collaborators",
+    "label_index": 5,
+    "support": 44,
+    "f1": 0.23121387283236994,
+    "ci95": [
+      0.12984918307498952,
+      0.3297899758719017
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "group",
+    "arm": "T",
+    "label": "Keyimplementationpoints",
+    "label_index": 0,
+    "support": 115,
+    "f1": 0.1564245810055866,
+    "ci95": [
+      0.07777131782945737,
+      0.22026618382737248
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "group",
+    "arm": "T",
+    "label": "Example",
+    "label_index": 1,
+    "support": 316,
+    "f1": 0.6908396946564885,
+    "ci95": [
+      0.606152317314679,
+      0.7659673891429707
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "group",
+    "arm": "T",
+    "label": "Responsibilities",
+    "label_index": 2,
+    "support": 138,
+    "f1": 0.4603174603174603,
+    "ci95": [
+      0.3777148339348531,
+      0.5504587155963303
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "group",
+    "arm": "T",
+    "label": "Intent",
+    "label_index": 3,
+    "support": 86,
+    "f1": 0.6557377049180327,
+    "ci95": [
+      0.5747094684701848,
+      0.731973747302805
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "group",
+    "arm": "T",
+    "label": "Keymessages",
+    "label_index": 4,
+    "support": 134,
+    "f1": 0.31746031746031744,
+    "ci95": [
+      0.18839650687476775,
+      0.43958060288335504
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "group",
+    "arm": "T",
+    "label": "Collaborators",
+    "label_index": 5,
+    "support": 44,
+    "f1": 0.16216216216216217,
+    "ci95": [
+      0.05333333333333334,
+      0.27848101265822783
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "group",
+    "arm": "T_exact",
+    "label": "Keyimplementationpoints",
+    "label_index": 0,
+    "support": 115,
+    "f1": 0.33935018050541516,
+    "ci95": [
+      0.1249771897810219,
+      0.5131698564593301
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "group",
+    "arm": "T_exact",
+    "label": "Example",
+    "label_index": 1,
+    "support": 316,
+    "f1": 0.6980273141122914,
+    "ci95": [
+      0.6171283961437335,
+      0.7700779246399684
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "group",
+    "arm": "T_exact",
+    "label": "Responsibilities",
+    "label_index": 2,
+    "support": 138,
+    "f1": 0.5919540229885057,
+    "ci95": [
+      0.519171789502128,
+      0.6612789146467315
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "group",
+    "arm": "T_exact",
+    "label": "Intent",
+    "label_index": 3,
+    "support": 86,
+    "f1": 0.6869565217391305,
+    "ci95": [
+      0.6226005858533643,
+      0.7510221905356029
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "group",
+    "arm": "T_exact",
+    "label": "Keymessages",
+    "label_index": 4,
+    "support": 134,
+    "f1": 0.37662337662337664,
+    "ci95": [
+      0.25178851332341945,
+      0.5098160251755022
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "group",
+    "arm": "T_exact",
+    "label": "Collaborators",
+    "label_index": 5,
+    "support": 44,
+    "f1": 0.24817518248175183,
+    "ci95": [
+      0.13846153846153847,
+      0.35384615384615387
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "group",
+    "arm": "T_coarse",
+    "label": "Keyimplementationpoints",
+    "label_index": 0,
+    "support": 115,
+    "f1": 0.2,
+    "ci95": [
+      0.11020758768790265,
+      0.27746467565831723
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "group",
+    "arm": "T_coarse",
+    "label": "Example",
+    "label_index": 1,
+    "support": 316,
+    "f1": 0.6741935483870968,
+    "ci95": [
+      0.5934360654573222,
+      0.7442669872417508
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "group",
+    "arm": "T_coarse",
+    "label": "Responsibilities",
+    "label_index": 2,
+    "support": 138,
+    "f1": 0.47368421052631576,
+    "ci95": [
+      0.41002533655690465,
+      0.5376945070178478
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "group",
+    "arm": "T_coarse",
+    "label": "Intent",
+    "label_index": 3,
+    "support": 86,
+    "f1": 0.47093023255813954,
+    "ci95": [
+      0.40335384153661463,
+      0.5481094974705503
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "group",
+    "arm": "T_coarse",
+    "label": "Keymessages",
+    "label_index": 4,
+    "support": 134,
+    "f1": 0.2585551330798479,
+    "ci95": [
+      0.17120116297571347,
+      0.34591194968553457
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "group",
+    "arm": "T_coarse",
+    "label": "Collaborators",
+    "label_index": 5,
+    "support": 44,
+    "f1": 0.14814814814814814,
+    "ci95": [
+      0.0493676603432701,
+      0.2564356435643563
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "group",
+    "arm": "T_nospan",
+    "label": "Keyimplementationpoints",
+    "label_index": 0,
+    "support": 115,
+    "f1": 0.32967032967032966,
+    "ci95": [
+      0.1315547798066595,
+      0.48171499385857164
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "group",
+    "arm": "T_nospan",
+    "label": "Example",
+    "label_index": 1,
+    "support": 316,
+    "f1": 0.6656151419558359,
+    "ci95": [
+      0.5728975213840264,
+      0.7448068443251532
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "group",
+    "arm": "T_nospan",
+    "label": "Responsibilities",
+    "label_index": 2,
+    "support": 138,
+    "f1": 0.5876010781671159,
+    "ci95": [
+      0.5212346880321423,
+      0.6532713070302005
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "group",
+    "arm": "T_nospan",
+    "label": "Intent",
+    "label_index": 3,
+    "support": 86,
+    "f1": 0.6929824561403509,
+    "ci95": [
+      0.626714113441578,
+      0.758894162902315
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "group",
+    "arm": "T_nospan",
+    "label": "Keymessages",
+    "label_index": 4,
+    "support": 134,
+    "f1": 0.3624161073825503,
+    "ci95": [
+      0.23107276055483225,
+      0.49840163934426207
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "group",
+    "arm": "T_nospan",
+    "label": "Collaborators",
+    "label_index": 5,
+    "support": 44,
+    "f1": 0.26277372262773724,
+    "ci95": [
+      0.15150878533231474,
+      0.3703968253968252
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "group",
+    "arm": "T_permuted",
+    "label": "Keyimplementationpoints",
+    "label_index": 0,
+    "support": 115,
+    "f1": 0.2009132420091324,
+    "ci95": [
+      0.090308105872622,
+      0.28402967590784844
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "group",
+    "arm": "T_permuted",
+    "label": "Example",
+    "label_index": 1,
+    "support": 316,
+    "f1": 0.7018121911037891,
+    "ci95": [
+      0.6151005003948843,
+      0.7741960764485792
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "group",
+    "arm": "T_permuted",
+    "label": "Responsibilities",
+    "label_index": 2,
+    "support": 138,
+    "f1": 0.49390243902439024,
+    "ci95": [
+      0.4198157682525898,
+      0.5611964371689937
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "group",
+    "arm": "T_permuted",
+    "label": "Intent",
+    "label_index": 3,
+    "support": 86,
+    "f1": 0.5462555066079295,
+    "ci95": [
+      0.4742245822964806,
+      0.6183603981141959
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "group",
+    "arm": "T_permuted",
+    "label": "Keymessages",
+    "label_index": 4,
+    "support": 134,
+    "f1": 0.391304347826087,
+    "ci95": [
+      0.24403961853558628,
+      0.5477010676156583
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "group",
+    "arm": "T_permuted",
+    "label": "Collaborators",
+    "label_index": 5,
+    "support": 44,
+    "f1": 0.2962962962962963,
+    "ci95": [
+      0.18317140874392782,
+      0.40559440559440557
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "project",
+    "arm": "S",
+    "label": "Keyimplementationpoints",
+    "label_index": 0,
+    "support": 115,
+    "f1": 0.24,
+    "ci95": [
+      0.07194029207771507,
+      0.35733333333333334
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "project",
+    "arm": "S",
+    "label": "Example",
+    "label_index": 1,
+    "support": 316,
+    "f1": 0.5251396648044693,
+    "ci95": [
+      0.43252048782853264,
+      0.6038574874831075
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "project",
+    "arm": "S",
+    "label": "Responsibilities",
+    "label_index": 2,
+    "support": 138,
+    "f1": 0.35864978902953587,
+    "ci95": [
+      0.2815060399159664,
+      0.44094575872893393
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "project",
+    "arm": "S",
+    "label": "Intent",
+    "label_index": 3,
+    "support": 86,
+    "f1": 0.4128113879003559,
+    "ci95": [
+      0.32989690721649484,
+      0.5041376212720086
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "project",
+    "arm": "S",
+    "label": "Keymessages",
+    "label_index": 4,
+    "support": 134,
+    "f1": 0.2903225806451613,
+    "ci95": [
+      0.20454363926808017,
+      0.3722573260073258
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "project",
+    "arm": "S",
+    "label": "Collaborators",
+    "label_index": 5,
+    "support": 44,
+    "f1": 0.1791044776119403,
+    "ci95": [
+      0.0768939393939394,
+      0.28788520801232664
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "project",
+    "arm": "SP",
+    "label": "Keyimplementationpoints",
+    "label_index": 0,
+    "support": 115,
+    "f1": 0.41454545454545455,
+    "ci95": [
+      0.11763271162123386,
+      0.6463142879173414
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "project",
+    "arm": "SP",
+    "label": "Example",
+    "label_index": 1,
+    "support": 316,
+    "f1": 0.6020260492040521,
+    "ci95": [
+      0.4814139396255745,
+      0.7099476118866259
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "project",
+    "arm": "SP",
+    "label": "Responsibilities",
+    "label_index": 2,
+    "support": 138,
+    "f1": 0.5528455284552846,
+    "ci95": [
+      0.4886330982236155,
+      0.6153846153846154
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "project",
+    "arm": "SP",
+    "label": "Intent",
+    "label_index": 3,
+    "support": 86,
+    "f1": 0.6842105263157895,
+    "ci95": [
+      0.6168047127607742,
+      0.7510548523206751
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "project",
+    "arm": "SP",
+    "label": "Keymessages",
+    "label_index": 4,
+    "support": 134,
+    "f1": 0.3584070796460177,
+    "ci95": [
+      0.23910455486542445,
+      0.4712789778714434
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "project",
+    "arm": "SP",
+    "label": "Collaborators",
+    "label_index": 5,
+    "support": 44,
+    "f1": 0.21768707482993196,
+    "ci95": [
+      0.11764705882352941,
+      0.3194444444444444
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "project",
+    "arm": "P",
+    "label": "Keyimplementationpoints",
+    "label_index": 0,
+    "support": 115,
+    "f1": 0.37735849056603776,
+    "ci95": [
+      0.1432653764134282,
+      0.5837186349949813
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "project",
+    "arm": "P",
+    "label": "Example",
+    "label_index": 1,
+    "support": 316,
+    "f1": 0.6412213740458015,
+    "ci95": [
+      0.5264220954515356,
+      0.7417420334106715
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "project",
+    "arm": "P",
+    "label": "Responsibilities",
+    "label_index": 2,
+    "support": 138,
+    "f1": 0.5895316804407713,
+    "ci95": [
+      0.5275296442687747,
+      0.6500034435261708
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "project",
+    "arm": "P",
+    "label": "Intent",
+    "label_index": 3,
+    "support": 86,
+    "f1": 0.6666666666666666,
+    "ci95": [
+      0.597399659164365,
+      0.7368636755823985
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "project",
+    "arm": "P",
+    "label": "Keymessages",
+    "label_index": 4,
+    "support": 134,
+    "f1": 0.3546617915904936,
+    "ci95": [
+      0.22725593372145095,
+      0.471134575569358
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "project",
+    "arm": "P",
+    "label": "Collaborators",
+    "label_index": 5,
+    "support": 44,
+    "f1": 0.19157088122605365,
+    "ci95": [
+      0.12294218327994473,
+      0.261551724137931
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "project",
+    "arm": "SP_matched",
+    "label": "Keyimplementationpoints",
+    "label_index": 0,
+    "support": 115,
+    "f1": 0.42857142857142855,
+    "ci95": [
+      0.13870048257941348,
+      0.644234785202864
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "project",
+    "arm": "SP_matched",
+    "label": "Example",
+    "label_index": 1,
+    "support": 316,
+    "f1": 0.6,
+    "ci95": [
+      0.47921750371307553,
+      0.7091876456464938
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "project",
+    "arm": "SP_matched",
+    "label": "Responsibilities",
+    "label_index": 2,
+    "support": 138,
+    "f1": 0.546448087431694,
+    "ci95": [
+      0.48086903360202876,
+      0.6089385474860335
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "project",
+    "arm": "SP_matched",
+    "label": "Intent",
+    "label_index": 3,
+    "support": 86,
+    "f1": 0.6872246696035242,
+    "ci95": [
+      0.6200781105849068,
+      0.7543907846539425
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "project",
+    "arm": "SP_matched",
+    "label": "Keymessages",
+    "label_index": 4,
+    "support": 134,
+    "f1": 0.3676148796498906,
+    "ci95": [
+      0.24884738538759438,
+      0.4798633975481611
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "project",
+    "arm": "SP_matched",
+    "label": "Collaborators",
+    "label_index": 5,
+    "support": 44,
+    "f1": 0.22535211267605634,
+    "ci95": [
+      0.12212744772651841,
+      0.3333333333333333
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "project",
+    "arm": "T",
+    "label": "Keyimplementationpoints",
+    "label_index": 0,
+    "support": 115,
+    "f1": 0.10843373493975904,
+    "ci95": [
+      0.03361109807051312,
+      0.21621621621621623
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "project",
+    "arm": "T",
+    "label": "Example",
+    "label_index": 1,
+    "support": 316,
+    "f1": 0.6603053435114504,
+    "ci95": [
+      0.5850575333867988,
+      0.7260740062896323
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "project",
+    "arm": "T",
+    "label": "Responsibilities",
+    "label_index": 2,
+    "support": 138,
+    "f1": 0.4018475750577367,
+    "ci95": [
+      0.322172186369761,
+      0.48363329812301936
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "project",
+    "arm": "T",
+    "label": "Intent",
+    "label_index": 3,
+    "support": 86,
+    "f1": 0.5361702127659574,
+    "ci95": [
+      0.4482758620689655,
+      0.6256068122425477
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "project",
+    "arm": "T",
+    "label": "Keymessages",
+    "label_index": 4,
+    "support": 134,
+    "f1": 0.29411764705882354,
+    "ci95": [
+      0.19827392047219633,
+      0.3862108150470219
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "project",
+    "arm": "T",
+    "label": "Collaborators",
+    "label_index": 5,
+    "support": 44,
+    "f1": 0.08955223880597014,
+    "ci95": [
+      0.0,
+      0.18872416891284793
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "project",
+    "arm": "T_exact",
+    "label": "Keyimplementationpoints",
+    "label_index": 0,
+    "support": 115,
+    "f1": 0.3819444444444444,
+    "ci95": [
+      0.1085917125470878,
+      0.6116653457499504
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "project",
+    "arm": "T_exact",
+    "label": "Example",
+    "label_index": 1,
+    "support": 316,
+    "f1": 0.6704545454545454,
+    "ci95": [
+      0.5544446341185844,
+      0.7737231374627901
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "project",
+    "arm": "T_exact",
+    "label": "Responsibilities",
+    "label_index": 2,
+    "support": 138,
+    "f1": 0.5903614457831325,
+    "ci95": [
+      0.5222175141242938,
+      0.6579050486718363
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "project",
+    "arm": "T_exact",
+    "label": "Intent",
+    "label_index": 3,
+    "support": 86,
+    "f1": 0.6960352422907489,
+    "ci95": [
+      0.6294332832868617,
+      0.7627181418706842
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "project",
+    "arm": "T_exact",
+    "label": "Keymessages",
+    "label_index": 4,
+    "support": 134,
+    "f1": 0.376657824933687,
+    "ci95": [
+      0.2283416787707362,
+      0.520561066498714
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "project",
+    "arm": "T_exact",
+    "label": "Collaborators",
+    "label_index": 5,
+    "support": 44,
+    "f1": 0.24060150375939848,
+    "ci95": [
+      0.12400715563506261,
+      0.3520028169014084
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "project",
+    "arm": "T_coarse",
+    "label": "Keyimplementationpoints",
+    "label_index": 0,
+    "support": 115,
+    "f1": 0.22885572139303484,
+    "ci95": [
+      0.061068702290076333,
+      0.3420353078494309
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "project",
+    "arm": "T_coarse",
+    "label": "Example",
+    "label_index": 1,
+    "support": 316,
+    "f1": 0.647887323943662,
+    "ci95": [
+      0.5704338408413122,
+      0.7171369104478771
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "project",
+    "arm": "T_coarse",
+    "label": "Responsibilities",
+    "label_index": 2,
+    "support": 138,
+    "f1": 0.46956521739130436,
+    "ci95": [
+      0.4033935683059401,
+      0.5342170915358795
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "project",
+    "arm": "T_coarse",
+    "label": "Intent",
+    "label_index": 3,
+    "support": 86,
+    "f1": 0.4584527220630373,
+    "ci95": [
+      0.38845030240785117,
+      0.5352963800904977
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "project",
+    "arm": "T_coarse",
+    "label": "Keymessages",
+    "label_index": 4,
+    "support": 134,
+    "f1": 0.3,
+    "ci95": [
+      0.20918816553966962,
+      0.38622205380826063
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "project",
+    "arm": "T_coarse",
+    "label": "Collaborators",
+    "label_index": 5,
+    "support": 44,
+    "f1": 0.0821917808219178,
+    "ci95": [
+      0.0,
+      0.18461538461538463
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "project",
+    "arm": "T_nospan",
+    "label": "Keyimplementationpoints",
+    "label_index": 0,
+    "support": 115,
+    "f1": 0.3711340206185567,
+    "ci95": [
+      0.09707565311195535,
+      0.6004887242762276
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "project",
+    "arm": "T_nospan",
+    "label": "Example",
+    "label_index": 1,
+    "support": 316,
+    "f1": 0.6255639097744361,
+    "ci95": [
+      0.5114278049761921,
+      0.7288494137751419
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "project",
+    "arm": "T_nospan",
+    "label": "Responsibilities",
+    "label_index": 2,
+    "support": 138,
+    "f1": 0.5842696629213483,
+    "ci95": [
+      0.5205400269221633,
+      0.6477272727272727
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "project",
+    "arm": "T_nospan",
+    "label": "Intent",
+    "label_index": 3,
+    "support": 86,
+    "f1": 0.6991150442477876,
+    "ci95": [
+      0.6320754716981132,
+      0.7658032112631495
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "project",
+    "arm": "T_nospan",
+    "label": "Keymessages",
+    "label_index": 4,
+    "support": 134,
+    "f1": 0.3804347826086957,
+    "ci95": [
+      0.23113775398732794,
+      0.5321200329479933
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "project",
+    "arm": "T_nospan",
+    "label": "Collaborators",
+    "label_index": 5,
+    "support": 44,
+    "f1": 0.2753623188405797,
+    "ci95": [
+      0.1651075349676643,
+      0.3846296296296296
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "project",
+    "arm": "T_permuted",
+    "label": "Keyimplementationpoints",
+    "label_index": 0,
+    "support": 115,
+    "f1": 0.20833333333333334,
+    "ci95": [
+      0.11363233397807866,
+      0.29411764705882354
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "project",
+    "arm": "T_permuted",
+    "label": "Example",
+    "label_index": 1,
+    "support": 316,
+    "f1": 0.6786296900489397,
+    "ci95": [
+      0.5905560312024353,
+      0.7544595237034065
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "project",
+    "arm": "T_permuted",
+    "label": "Responsibilities",
+    "label_index": 2,
+    "support": 138,
+    "f1": 0.48717948717948717,
+    "ci95": [
+      0.4128643331045527,
+      0.559100864553314
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "project",
+    "arm": "T_permuted",
+    "label": "Intent",
+    "label_index": 3,
+    "support": 86,
+    "f1": 0.5178571428571429,
+    "ci95": [
+      0.4401866028708134,
+      0.591304347826087
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "project",
+    "arm": "T_permuted",
+    "label": "Keymessages",
+    "label_index": 4,
+    "support": 134,
+    "f1": 0.3076923076923077,
+    "ci95": [
+      0.19133597883597883,
+      0.4289412882468528
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "project",
+    "arm": "T_permuted",
+    "label": "Collaborators",
+    "label_index": 5,
+    "support": 44,
+    "f1": 0.3076923076923077,
+    "ci95": [
+      0.18748539719626167,
+      0.42189150528169006
+    ]
+  }
+]

@@ -1,0 +1,614 @@
+[
+  {
+    "language": "python",
+    "protocol": "group",
+    "arm": "SetFit",
+    "rows": 1031,
+    "macro_f1": 0.39619003069957637,
+    "micro_f1": 0.410688140556369,
+    "macro_ci95": [
+      0.3583548348200574,
+      0.43228264488442264
+    ],
+    "micro_ci95": [
+      0.37077178852314246,
+      0.45441971583394714
+    ],
+    "per_label": [
+      {
+        "label": "Usage",
+        "support": 272,
+        "predicted_positive": 382,
+        "f1": 0.4892966360856269
+      },
+      {
+        "label": "Parameters",
+        "support": 335,
+        "predicted_positive": 214,
+        "f1": 0.41894353369763204
+      },
+      {
+        "label": "DevelopmentNotes",
+        "support": 134,
+        "predicted_positive": 260,
+        "f1": 0.20304568527918782
+      },
+      {
+        "label": "Expand",
+        "support": 238,
+        "predicted_positive": 423,
+        "f1": 0.4266263237518911
+      },
+      {
+        "label": "Summary",
+        "support": 183,
+        "predicted_positive": 291,
+        "f1": 0.4430379746835443
+      }
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "group",
+    "arm": "SetFit_P",
+    "rows": 1031,
+    "macro_f1": 0.3970400019849234,
+    "micro_f1": 0.41144114411441146,
+    "macro_ci95": [
+      0.3580286926359909,
+      0.4333466922446858
+    ],
+    "micro_ci95": [
+      0.370881902206307,
+      0.4547134595212978
+    ],
+    "per_label": [
+      {
+        "label": "Usage",
+        "support": 272,
+        "predicted_positive": 382,
+        "f1": 0.48623853211009177
+      },
+      {
+        "label": "Parameters",
+        "support": 335,
+        "predicted_positive": 214,
+        "f1": 0.41894353369763204
+      },
+      {
+        "label": "DevelopmentNotes",
+        "support": 134,
+        "predicted_positive": 256,
+        "f1": 0.2
+      },
+      {
+        "label": "Expand",
+        "support": 238,
+        "predicted_positive": 426,
+        "f1": 0.4246987951807229
+      },
+      {
+        "label": "Summary",
+        "support": 183,
+        "predicted_positive": 287,
+        "f1": 0.4553191489361702
+      }
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "group",
+    "arm": "P_official_head",
+    "rows": 1031,
+    "macro_f1": 0.29874427882348675,
+    "micro_f1": 0.3894230769230769,
+    "macro_ci95": [
+      0.25381337692315353,
+      0.33067930842519233
+    ],
+    "micro_ci95": [
+      0.30350268608693154,
+      0.47139193899782134
+    ],
+    "per_label": [
+      {
+        "label": "Usage",
+        "support": 272,
+        "predicted_positive": 92,
+        "f1": 0.24725274725274726
+      },
+      {
+        "label": "Parameters",
+        "support": 335,
+        "predicted_positive": 290,
+        "f1": 0.56
+      },
+      {
+        "label": "DevelopmentNotes",
+        "support": 134,
+        "predicted_positive": 0,
+        "f1": 0.0
+      },
+      {
+        "label": "Expand",
+        "support": 238,
+        "predicted_positive": 0,
+        "f1": 0.0
+      },
+      {
+        "label": "Summary",
+        "support": 183,
+        "predicted_positive": 120,
+        "f1": 0.6864686468646864
+      }
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "project",
+    "arm": "SetFit",
+    "rows": 1031,
+    "macro_f1": 0.3747273167684275,
+    "micro_f1": 0.37822349570200575,
+    "macro_ci95": [
+      0.33276264561699626,
+      0.4113166474205597
+    ],
+    "micro_ci95": [
+      0.3364215119638527,
+      0.4196562214828274
+    ],
+    "per_label": [
+      {
+        "label": "Usage",
+        "support": 272,
+        "predicted_positive": 377,
+        "f1": 0.4406779661016949
+      },
+      {
+        "label": "Parameters",
+        "support": 335,
+        "predicted_positive": 210,
+        "f1": 0.3779816513761468
+      },
+      {
+        "label": "DevelopmentNotes",
+        "support": 134,
+        "predicted_positive": 382,
+        "f1": 0.2131782945736434
+      },
+      {
+        "label": "Expand",
+        "support": 238,
+        "predicted_positive": 371,
+        "f1": 0.41050903119868637
+      },
+      {
+        "label": "Summary",
+        "support": 183,
+        "predicted_positive": 290,
+        "f1": 0.4312896405919662
+      }
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "project",
+    "arm": "SetFit_P",
+    "rows": 1031,
+    "macro_f1": 0.37694559343915257,
+    "micro_f1": 0.3803372802296376,
+    "macro_ci95": [
+      0.3358053581856563,
+      0.4134069511564876
+    ],
+    "micro_ci95": [
+      0.33853271063899903,
+      0.421489628909415
+    ],
+    "per_label": [
+      {
+        "label": "Usage",
+        "support": 272,
+        "predicted_positive": 374,
+        "f1": 0.43653250773993807
+      },
+      {
+        "label": "Parameters",
+        "support": 335,
+        "predicted_positive": 210,
+        "f1": 0.381651376146789
+      },
+      {
+        "label": "DevelopmentNotes",
+        "support": 134,
+        "predicted_positive": 375,
+        "f1": 0.21611001964636542
+      },
+      {
+        "label": "Expand",
+        "support": 238,
+        "predicted_positive": 377,
+        "f1": 0.4097560975609756
+      },
+      {
+        "label": "Summary",
+        "support": 183,
+        "predicted_positive": 289,
+        "f1": 0.4406779661016949
+      }
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "project",
+    "arm": "P_official_head",
+    "rows": 1031,
+    "macro_f1": 0.3033292283515384,
+    "micro_f1": 0.4009546539379475,
+    "macro_ci95": [
+      0.25972226279199745,
+      0.33322720628695696
+    ],
+    "micro_ci95": [
+      0.3144159685152113,
+      0.48195788292295394
+    ],
+    "per_label": [
+      {
+        "label": "Usage",
+        "support": 272,
+        "predicted_positive": 90,
+        "f1": 0.2430939226519337
+      },
+      {
+        "label": "Parameters",
+        "support": 335,
+        "predicted_positive": 303,
+        "f1": 0.5893416927899686
+      },
+      {
+        "label": "DevelopmentNotes",
+        "support": 134,
+        "predicted_positive": 0,
+        "f1": 0.0
+      },
+      {
+        "label": "Expand",
+        "support": 238,
+        "predicted_positive": 0,
+        "f1": 0.0
+      },
+      {
+        "label": "Summary",
+        "support": 183,
+        "predicted_positive": 121,
+        "f1": 0.6842105263157895
+      }
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "group",
+    "arm": "SetFit",
+    "rows": 752,
+    "macro_f1": 0.5342419840360645,
+    "micro_f1": 0.5853131749460043,
+    "macro_ci95": [
+      0.48536641820786536,
+      0.5705349675414211
+    ],
+    "micro_ci95": [
+      0.5380430806238911,
+      0.6369371434541574
+    ],
+    "per_label": [
+      {
+        "label": "Keyimplementationpoints",
+        "support": 115,
+        "predicted_positive": 163,
+        "f1": 0.4172661870503597
+      },
+      {
+        "label": "Example",
+        "support": 316,
+        "predicted_positive": 320,
+        "f1": 0.7515723270440252
+      },
+      {
+        "label": "Responsibilities",
+        "support": 138,
+        "predicted_positive": 230,
+        "f1": 0.5217391304347826
+      },
+      {
+        "label": "Intent",
+        "support": 86,
+        "predicted_positive": 87,
+        "f1": 0.7861271676300579
+      },
+      {
+        "label": "Keymessages",
+        "support": 134,
+        "predicted_positive": 161,
+        "f1": 0.4542372881355932
+      },
+      {
+        "label": "Collaborators",
+        "support": 44,
+        "predicted_positive": 58,
+        "f1": 0.27450980392156865
+      }
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "group",
+    "arm": "SetFit_P",
+    "rows": 752,
+    "macro_f1": 0.5282037619059711,
+    "micro_f1": 0.5838779956427015,
+    "macro_ci95": [
+      0.4798069355620851,
+      0.5643122834304364
+    ],
+    "micro_ci95": [
+      0.5365497146447458,
+      0.6364646118721461
+    ],
+    "per_label": [
+      {
+        "label": "Keyimplementationpoints",
+        "support": 115,
+        "predicted_positive": 158,
+        "f1": 0.40293040293040294
+      },
+      {
+        "label": "Example",
+        "support": 316,
+        "predicted_positive": 323,
+        "f1": 0.7480438184663537
+      },
+      {
+        "label": "Responsibilities",
+        "support": 138,
+        "predicted_positive": 227,
+        "f1": 0.5315068493150685
+      },
+      {
+        "label": "Intent",
+        "support": 86,
+        "predicted_positive": 84,
+        "f1": 0.788235294117647
+      },
+      {
+        "label": "Keymessages",
+        "support": 134,
+        "predicted_positive": 157,
+        "f1": 0.4536082474226804
+      },
+      {
+        "label": "Collaborators",
+        "support": 44,
+        "predicted_positive": 54,
+        "f1": 0.24489795918367346
+      }
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "group",
+    "arm": "P_official_head",
+    "rows": 752,
+    "macro_f1": 0.2594695155057328,
+    "micro_f1": 0.38591117917304746,
+    "macro_ci95": [
+      0.2373228154800873,
+      0.2811821578969469
+    ],
+    "micro_ci95": [
+      0.32208246393460105,
+      0.4534816577505408
+    ],
+    "per_label": [
+      {
+        "label": "Keyimplementationpoints",
+        "support": 115,
+        "predicted_positive": 5,
+        "f1": 0.0
+      },
+      {
+        "label": "Example",
+        "support": 316,
+        "predicted_positive": 272,
+        "f1": 0.4897959183673469
+      },
+      {
+        "label": "Responsibilities",
+        "support": 138,
+        "predicted_positive": 75,
+        "f1": 0.40375586854460094
+      },
+      {
+        "label": "Intent",
+        "support": 86,
+        "predicted_positive": 110,
+        "f1": 0.6632653061224489
+      },
+      {
+        "label": "Keymessages",
+        "support": 134,
+        "predicted_positive": 11,
+        "f1": 0.0
+      },
+      {
+        "label": "Collaborators",
+        "support": 44,
+        "predicted_positive": 0,
+        "f1": 0.0
+      }
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "project",
+    "arm": "SetFit",
+    "rows": 752,
+    "macro_f1": 0.48629591613348727,
+    "micro_f1": 0.5361702127659574,
+    "macro_ci95": [
+      0.44406958605234914,
+      0.5279879336965146
+    ],
+    "micro_ci95": [
+      0.47330546525332295,
+      0.6017154736080983
+    ],
+    "per_label": [
+      {
+        "label": "Keyimplementationpoints",
+        "support": 115,
+        "predicted_positive": 107,
+        "f1": 0.2072072072072072
+      },
+      {
+        "label": "Example",
+        "support": 316,
+        "predicted_positive": 309,
+        "f1": 0.7168
+      },
+      {
+        "label": "Responsibilities",
+        "support": 138,
+        "predicted_positive": 258,
+        "f1": 0.4696969696969697
+      },
+      {
+        "label": "Intent",
+        "support": 86,
+        "predicted_positive": 100,
+        "f1": 0.7526881720430108
+      },
+      {
+        "label": "Keymessages",
+        "support": 134,
+        "predicted_positive": 206,
+        "f1": 0.4470588235294118
+      },
+      {
+        "label": "Collaborators",
+        "support": 44,
+        "predicted_positive": 67,
+        "f1": 0.32432432432432434
+      }
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "project",
+    "arm": "SetFit_P",
+    "rows": 752,
+    "macro_f1": 0.4895934199493131,
+    "micro_f1": 0.5413533834586466,
+    "macro_ci95": [
+      0.44691107884167874,
+      0.530966351528247
+    ],
+    "micro_ci95": [
+      0.4795938391166405,
+      0.6054192975342254
+    ],
+    "per_label": [
+      {
+        "label": "Keyimplementationpoints",
+        "support": 115,
+        "predicted_positive": 106,
+        "f1": 0.2081447963800905
+      },
+      {
+        "label": "Example",
+        "support": 316,
+        "predicted_positive": 308,
+        "f1": 0.717948717948718
+      },
+      {
+        "label": "Responsibilities",
+        "support": 138,
+        "predicted_positive": 252,
+        "f1": 0.48205128205128206
+      },
+      {
+        "label": "Intent",
+        "support": 86,
+        "predicted_positive": 98,
+        "f1": 0.7608695652173914
+      },
+      {
+        "label": "Keymessages",
+        "support": 134,
+        "predicted_positive": 201,
+        "f1": 0.4537313432835821
+      },
+      {
+        "label": "Collaborators",
+        "support": 44,
+        "predicted_positive": 64,
+        "f1": 0.3148148148148148
+      }
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "project",
+    "arm": "P_official_head",
+    "rows": 752,
+    "macro_f1": 0.29138648226293223,
+    "micro_f1": 0.42954856361149113,
+    "macro_ci95": [
+      0.25903365018627367,
+      0.32278488080655926
+    ],
+    "micro_ci95": [
+      0.3399665861977253,
+      0.518631228211344
+    ],
+    "per_label": [
+      {
+        "label": "Keyimplementationpoints",
+        "support": 115,
+        "predicted_positive": 2,
+        "f1": 0.03418803418803419
+      },
+      {
+        "label": "Example",
+        "support": 316,
+        "predicted_positive": 376,
+        "f1": 0.5664739884393064
+      },
+      {
+        "label": "Responsibilities",
+        "support": 138,
+        "predicted_positive": 71,
+        "f1": 0.41148325358851673
+      },
+      {
+        "label": "Intent",
+        "support": 86,
+        "predicted_positive": 112,
+        "f1": 0.6767676767676768
+      },
+      {
+        "label": "Keymessages",
+        "support": 134,
+        "predicted_positive": 68,
+        "f1": 0.0594059405940594
+      },
+      {
+        "label": "Collaborators",
+        "support": 44,
+        "predicted_positive": 0,
+        "f1": 0.0
+      }
+    ]
+  }
+]

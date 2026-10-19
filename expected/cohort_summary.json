@@ -1,0 +1,207 @@
+{
+  "python": {
+    "train_population": 1368,
+    "targets": 1031,
+    "original_comment_groups": 174,
+    "dependence_components": 162,
+    "projects": 7,
+    "excluded": {
+      "no_external_word_context": 60,
+      "text_unmatched": 160,
+      "ambiguous_position": 103,
+      "class_absent": 14
+    },
+    "methods": {
+      "raw": 488,
+      "space": 543
+    },
+    "project_targets": {
+      "django": 188,
+      "Ipython": 53,
+      "Mailpile": 44,
+      "Pandas": 136,
+      "pipenv": 323,
+      "pytorch": 281,
+      "Requests": 6
+    },
+    "project_groups": {
+      "django": 52,
+      "Ipython": 13,
+      "Mailpile": 10,
+      "Pandas": 17,
+      "pipenv": 48,
+      "pytorch": 33,
+      "Requests": 1
+    },
+    "labels": [
+      "Usage",
+      "Parameters",
+      "DevelopmentNotes",
+      "Expand",
+      "Summary"
+    ],
+    "label_positive_counts": [
+      272,
+      335,
+      134,
+      238,
+      183
+    ],
+    "label_positive_groups": [
+      74,
+      48,
+      49,
+      68,
+      123
+    ],
+    "label_positive_projects": [
+      7,
+      6,
+      7,
+      6,
+      7
+    ],
+    "cardinality": {
+      "1": 908,
+      "2": 115,
+      "3": 8
+    },
+    "labelsets": {
+      "00001": 152,
+      "10000": 210,
+      "00010": 166,
+      "00100": 81,
+      "01000": 299,
+      "00101": 6,
+      "01001": 5,
+      "10100": 28,
+      "11000": 8,
+      "00011": 15,
+      "00110": 13,
+      "01010": 22,
+      "10010": 17,
+      "10101": 3,
+      "10110": 3,
+      "11010": 1,
+      "10011": 1,
+      "10001": 1
+    },
+    "duplicate_normalized_texts": 13,
+    "duplicate_rows": 30,
+    "duplicate_texts_cross_comment": 13,
+    "conflicting_duplicate_texts": 3,
+    "within_comment_pairs": 8430,
+    "overlapping_target_pairs": 0,
+    "overlapping_context_pairs": 8430,
+    "source_duplicate_texts_cross_group": 0,
+    "target_gt128": 0,
+    "full_context_gt256": 469
+  },
+  "pharo": {
+    "train_population": 900,
+    "targets": 752,
+    "original_comment_groups": 183,
+    "dependence_components": 165,
+    "projects": 7,
+    "excluded": {
+      "no_external_word_context": 51,
+      "ambiguous_position": 68,
+      "text_unmatched": 29
+    },
+    "methods": {
+      "space": 354,
+      "raw": 398
+    },
+    "project_targets": {
+      "GToolkit": 327,
+      "Moose": 82,
+      "Petit": 19,
+      "Pillar": 45,
+      "PolyMath": 34,
+      "Roassal": 156,
+      "Seaside": 89
+    },
+    "project_groups": {
+      "GToolkit": 72,
+      "Moose": 21,
+      "Petit": 5,
+      "Pillar": 17,
+      "PolyMath": 9,
+      "Roassal": 32,
+      "Seaside": 27
+    },
+    "labels": [
+      "Keyimplementationpoints",
+      "Example",
+      "Responsibilities",
+      "Intent",
+      "Keymessages",
+      "Collaborators"
+    ],
+    "label_positive_counts": [
+      115,
+      316,
+      138,
+      86,
+      134,
+      44
+    ],
+    "label_positive_groups": [
+      34,
+      64,
+      96,
+      81,
+      37,
+      34
+    ],
+    "label_positive_projects": [
+      5,
+      7,
+      7,
+      7,
+      7,
+      6
+    ],
+    "cardinality": {
+      "1": 679,
+      "2": 65,
+      "3": 8
+    },
+    "labelsets": {
+      "000100": 58,
+      "000010": 108,
+      "100000": 98,
+      "001000": 96,
+      "010000": 298,
+      "101000": 2,
+      "001100": 17,
+      "000001": 21,
+      "001001": 12,
+      "100100": 1,
+      "100010": 9,
+      "010001": 1,
+      "011000": 3,
+      "110000": 2,
+      "000101": 6,
+      "010100": 2,
+      "100001": 1,
+      "001010": 2,
+      "010010": 6,
+      "000110": 1,
+      "001110": 1,
+      "011010": 2,
+      "110010": 2,
+      "001011": 3
+    },
+    "duplicate_normalized_texts": 10,
+    "duplicate_rows": 33,
+    "duplicate_texts_cross_comment": 9,
+    "conflicting_duplicate_texts": 1,
+    "within_comment_pairs": 3508,
+    "overlapping_target_pairs": 1,
+    "overlapping_context_pairs": 3508,
+    "source_duplicate_texts_cross_group": 1,
+    "target_gt128": 0,
+    "full_context_gt256": 188
+  }
+}

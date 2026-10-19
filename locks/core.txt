@@ -1,0 +1,8 @@
+# Recorded Python 3.13.9 on Windows; CUDA 11.8 for encoder.
+joblib==1.5.2
+numpy==2.2.6
+psutil==7.0.0
+pyarrow==21.0.0
+scikit-learn==1.7.2
+scipy==1.16.3
+threadpoolctl==3.5.0

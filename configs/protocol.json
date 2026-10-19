@@ -1,0 +1,59 @@
+{
+  "seed": 20261018,
+  "bootstrap_draws": 2000,
+  "threshold": 0.5,
+  "checkpoint": "sentence-transformers/paraphrase-MiniLM-L6-v2",
+  "revision": "c9a2bfebc254878aee8c3aca9e6844d5bbb102d1",
+  "labels": {
+    "python": [
+      "Usage",
+      "Parameters",
+      "DevelopmentNotes",
+      "Expand",
+      "Summary"
+    ],
+    "pharo": [
+      "Keyimplementationpoints",
+      "Example",
+      "Responsibilities",
+      "Intent",
+      "Keymessages",
+      "Collaborators"
+    ]
+  },
+  "lr": {
+    "C": 1,
+    "solver": "liblinear",
+    "class_weight": "balanced",
+    "max_iter": 1000,
+    "tol": 0.0001,
+    "random_state": 20261018
+  },
+  "frozen_input": "First 128 whitespace tokens of target followed by first 16 whitespace tokens of source class identifier; NOT candidate-category conditioning.",
+  "encoder": {
+    "dimensions": 384,
+    "max_seq_length": 128,
+    "batch_size": 32,
+    "normalize_embeddings": true,
+    "precision": "float32",
+    "frozen": true
+  },
+  "structure": [
+    "relative_start",
+    "relative_span_length",
+    "log1p_before_whitespace_words",
+    "log1p_after_whitespace_words"
+  ],
+  "split": "Three deterministic count-balanced dependence-component folds; seven purged leave-one-project-out splits per language. Components link identical normalized targets or sources.",
+  "macro": "All 5/6 labels, zero_division=0, pooled out-of-fold predictions.",
+  "bootstrap": "2000 paired original-comment percentile 95% draws conditional on predictions; linked-component sensitivity; no refits or multiplicity adjustment.",
+  "setfit": {
+    "seed": 42,
+    "num_epochs": 10,
+    "batch_size": 32,
+    "num_iterations": 20,
+    "normalize_embeddings": false,
+    "head": "MultiOutputClassifier(LogisticRegression()) defaults, sklearn 1.4.0",
+    "input": "Exact released Train combo column"
+  }
+}

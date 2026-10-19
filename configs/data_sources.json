@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/nlbse2024/code-comment-classification/0a1d728e7058bd572c35e97a88efff1f5b92b1ae/python/project_classes/python_combined.csv",
+    "file": "python_original.csv",
+    "bytes": 314315,
+    "sha256": "2e4dc90ce337c27d664cc7914913cbf6899be570640cbbc9794add8dfdaa6716"
+  },
+  {
+    "url": "https://huggingface.co/datasets/NLBSE/nlbse26-code-comment-classification/resolve/d0dc51c11dbb660ba08f60bd714f4733e9560f3b/data/python_train-00000-of-00001.parquet",
+    "file": "python_train.parquet",
+    "bytes": 95802,
+    "sha256": "f1f287e9891d93a1a4434b0264eaeeed83d1242ca0d13123085c2f167a558ec6"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/nlbse2024/code-comment-classification/0a1d728e7058bd572c35e97a88efff1f5b92b1ae/pharo/project_classes/pharo_combined.csv",
+    "file": "pharo_original.csv",
+    "bytes": 313852,
+    "sha256": "1a2b9211630f04829de7a988caf4e381a0873ad42f319f0890dc97d3aedc3bb9"
+  },
+  {
+    "url": "https://huggingface.co/datasets/NLBSE/nlbse26-code-comment-classification/resolve/d0dc51c11dbb660ba08f60bd714f4733e9560f3b/data/pharo_train-00000-of-00001.parquet",
+    "file": "pharo_train.parquet",
+    "bytes": 79577,
+    "sha256": "c68841039b9d97d28d9257424b485945fb85404be5a33aea678bf9e0870c446c"
+  }
+]

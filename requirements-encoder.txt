@@ -1,0 +1,14 @@
+--extra-index-url https://download.pytorch.org/whl/cu118
+numpy==1.26.4
+torch==2.2.0+cu118
+sentence-transformers==3.4.1
+transformers==4.48.3
+huggingface-hub==0.28.1
+setfit==1.1.2
+datasets==3.6.0
+accelerate==1.15.0
+scikit-learn==1.4.0
+scipy==1.12.0
+pyarrow==25.0.1
+joblib==1.6.0
+psutil==7.2.2

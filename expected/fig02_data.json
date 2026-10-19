@@ -1,0 +1,46 @@
+[
+  {
+    "language": "python",
+    "protocol": "group",
+    "baseline_macro_f1": 0.3456207655989051,
+    "augmented_macro_f1": 0.469840667159357,
+    "delta_macro_f1": 0.12421990156045193,
+    "paired_ci95": [
+      0.07673989626649562,
+      0.1654445331500776
+    ]
+  },
+  {
+    "language": "python",
+    "protocol": "project",
+    "baseline_macro_f1": 0.3314345133768407,
+    "augmented_macro_f1": 0.463296705976202,
+    "delta_macro_f1": 0.13186219259936127,
+    "paired_ci95": [
+      0.09008294958252899,
+      0.1721380794080551
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "group",
+    "baseline_macro_f1": 0.37562342624928363,
+    "augmented_macro_f1": 0.48054096757962267,
+    "delta_macro_f1": 0.10491754133033904,
+    "paired_ci95": [
+      0.07829465094956506,
+      0.13365085284195274
+    ]
+  },
+  {
+    "language": "pharo",
+    "protocol": "project",
+    "baseline_macro_f1": 0.33433798333191045,
+    "augmented_macro_f1": 0.47162028549942164,
+    "delta_macro_f1": 0.1372823021675112,
+    "paired_ci95": [
+      0.09365364636068689,
+      0.1685208761958029
+    ]
+  }
+]

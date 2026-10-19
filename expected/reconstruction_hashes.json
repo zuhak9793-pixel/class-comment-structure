@@ -1,0 +1,11 @@
+{
+  "canonical_json_sha256": {
+    "cohort/splits.json": "b4e48780e0100bb75d2cb2d1caf4e2e8e5ee4f04df039f487c68f7c7b55df082",
+    "cohort/python_cohort.json": "8c2ab89c8b32840015dc24839844d4b25d61ce37d152018b950282e00ab5d315",
+    "cohort/pharo_cohort.json": "ce031fa57bd15fe257b027285b3e54430976c1c9616bd416c37a55f638f35065",
+    "recovery/python_matches.json": "66044e2f876605c83ee6e934d7738cd9506f4e6b8ea6f200bb6831a39f42ce40",
+    "recovery/python_source_groups.json": "c6131c093aa436f7b12047711bc9324779aa907c954472cbd2654f2b19370081",
+    "recovery/pharo_matches.json": "454a46f46bbb42c378098d39d0f1e93b84890d6a035984a5baf29d69383c58ec",
+    "recovery/pharo_source_groups.json": "2306c4b111f544c4558ae5f934c0dbe8215ad5a670698226f0350532d5b65c73"
+  }
+}

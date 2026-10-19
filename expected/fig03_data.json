@@ -1,0 +1,332 @@
+[
+  {
+    "language": "python",
+    "label": "Usage",
+    "arm": "S",
+    "tp": 141,
+    "fp": 250,
+    "fn": 131,
+    "tn": 509,
+    "f1": 0.4253393665158371
+  },
+  {
+    "language": "python",
+    "label": "Usage",
+    "arm": "P",
+    "tp": 170,
+    "fp": 198,
+    "fn": 102,
+    "tn": 561,
+    "f1": 0.53125
+  },
+  {
+    "language": "python",
+    "label": "Usage",
+    "arm": "SP",
+    "tp": 168,
+    "fp": 218,
+    "fn": 104,
+    "tn": 541,
+    "f1": 0.5106382978723404
+  },
+  {
+    "language": "python",
+    "label": "Parameters",
+    "arm": "S",
+    "tp": 105,
+    "fp": 146,
+    "fn": 230,
+    "tn": 550,
+    "f1": 0.3583617747440273
+  },
+  {
+    "language": "python",
+    "label": "Parameters",
+    "arm": "P",
+    "tp": 258,
+    "fp": 204,
+    "fn": 77,
+    "tn": 492,
+    "f1": 0.6474278544542033
+  },
+  {
+    "language": "python",
+    "label": "Parameters",
+    "arm": "SP",
+    "tp": 217,
+    "fp": 177,
+    "fn": 118,
+    "tn": 519,
+    "f1": 0.5953360768175583
+  },
+  {
+    "language": "python",
+    "label": "DevelopmentNotes",
+    "arm": "S",
+    "tp": 44,
+    "fp": 258,
+    "fn": 90,
+    "tn": 639,
+    "f1": 0.2018348623853211
+  },
+  {
+    "language": "python",
+    "label": "DevelopmentNotes",
+    "arm": "P",
+    "tp": 71,
+    "fp": 400,
+    "fn": 63,
+    "tn": 497,
+    "f1": 0.23471074380165288
+  },
+  {
+    "language": "python",
+    "label": "DevelopmentNotes",
+    "arm": "SP",
+    "tp": 37,
+    "fp": 222,
+    "fn": 97,
+    "tn": 675,
+    "f1": 0.18829516539440203
+  },
+  {
+    "language": "python",
+    "label": "Expand",
+    "arm": "S",
+    "tp": 108,
+    "fp": 256,
+    "fn": 130,
+    "tn": 537,
+    "f1": 0.3588039867109635
+  },
+  {
+    "language": "python",
+    "label": "Expand",
+    "arm": "P",
+    "tp": 149,
+    "fp": 354,
+    "fn": 89,
+    "tn": 439,
+    "f1": 0.40215924426450744
+  },
+  {
+    "language": "python",
+    "label": "Expand",
+    "arm": "SP",
+    "tp": 115,
+    "fp": 257,
+    "fn": 123,
+    "tn": 536,
+    "f1": 0.3770491803278688
+  },
+  {
+    "language": "python",
+    "label": "Summary",
+    "arm": "S",
+    "tp": 104,
+    "fp": 255,
+    "fn": 79,
+    "tn": 593,
+    "f1": 0.3837638376383764
+  },
+  {
+    "language": "python",
+    "label": "Summary",
+    "arm": "P",
+    "tp": 154,
+    "fp": 121,
+    "fn": 29,
+    "tn": 727,
+    "f1": 0.6724890829694323
+  },
+  {
+    "language": "python",
+    "label": "Summary",
+    "arm": "SP",
+    "tp": 141,
+    "fp": 92,
+    "fn": 42,
+    "tn": 756,
+    "f1": 0.6778846153846154
+  },
+  {
+    "language": "pharo",
+    "label": "Keyimplementationpoints",
+    "arm": "S",
+    "tp": 50,
+    "fp": 106,
+    "fn": 65,
+    "tn": 531,
+    "f1": 0.36900369003690037
+  },
+  {
+    "language": "pharo",
+    "label": "Keyimplementationpoints",
+    "arm": "P",
+    "tp": 77,
+    "fp": 227,
+    "fn": 38,
+    "tn": 410,
+    "f1": 0.36754176610978523
+  },
+  {
+    "language": "pharo",
+    "label": "Keyimplementationpoints",
+    "arm": "SP",
+    "tp": 57,
+    "fp": 139,
+    "fn": 58,
+    "tn": 498,
+    "f1": 0.3665594855305466
+  },
+  {
+    "language": "pharo",
+    "label": "Example",
+    "arm": "S",
+    "tp": 182,
+    "fp": 88,
+    "fn": 134,
+    "tn": 348,
+    "f1": 0.621160409556314
+  },
+  {
+    "language": "pharo",
+    "label": "Example",
+    "arm": "P",
+    "tp": 227,
+    "fp": 171,
+    "fn": 89,
+    "tn": 265,
+    "f1": 0.6358543417366946
+  },
+  {
+    "language": "pharo",
+    "label": "Example",
+    "arm": "SP",
+    "tp": 220,
+    "fp": 124,
+    "fn": 96,
+    "tn": 312,
+    "f1": 0.6666666666666666
+  },
+  {
+    "language": "pharo",
+    "label": "Responsibilities",
+    "arm": "S",
+    "tp": 81,
+    "fp": 214,
+    "fn": 57,
+    "tn": 400,
+    "f1": 0.3741339491916859
+  },
+  {
+    "language": "pharo",
+    "label": "Responsibilities",
+    "arm": "P",
+    "tp": 109,
+    "fp": 130,
+    "fn": 29,
+    "tn": 484,
+    "f1": 0.5782493368700266
+  },
+  {
+    "language": "pharo",
+    "label": "Responsibilities",
+    "arm": "SP",
+    "tp": 103,
+    "fp": 129,
+    "fn": 35,
+    "tn": 485,
+    "f1": 0.5567567567567567
+  },
+  {
+    "language": "pharo",
+    "label": "Intent",
+    "arm": "S",
+    "tp": 54,
+    "fp": 140,
+    "fn": 32,
+    "tn": 526,
+    "f1": 0.38571428571428573
+  },
+  {
+    "language": "pharo",
+    "label": "Intent",
+    "arm": "P",
+    "tp": 79,
+    "fp": 71,
+    "fn": 7,
+    "tn": 595,
+    "f1": 0.6694915254237288
+  },
+  {
+    "language": "pharo",
+    "label": "Intent",
+    "arm": "SP",
+    "tp": 80,
+    "fp": 64,
+    "fn": 6,
+    "tn": 602,
+    "f1": 0.6956521739130435
+  },
+  {
+    "language": "pharo",
+    "label": "Keymessages",
+    "arm": "S",
+    "tp": 47,
+    "fp": 147,
+    "fn": 87,
+    "tn": 471,
+    "f1": 0.2865853658536585
+  },
+  {
+    "language": "pharo",
+    "label": "Keymessages",
+    "arm": "P",
+    "tp": 98,
+    "fp": 336,
+    "fn": 36,
+    "tn": 282,
+    "f1": 0.34507042253521125
+  },
+  {
+    "language": "pharo",
+    "label": "Keymessages",
+    "arm": "SP",
+    "tp": 70,
+    "fp": 186,
+    "fn": 64,
+    "tn": 432,
+    "f1": 0.358974358974359
+  },
+  {
+    "language": "pharo",
+    "label": "Collaborators",
+    "arm": "S",
+    "tp": 19,
+    "fp": 112,
+    "fn": 25,
+    "tn": 596,
+    "f1": 0.21714285714285714
+  },
+  {
+    "language": "pharo",
+    "label": "Collaborators",
+    "arm": "P",
+    "tp": 24,
+    "fp": 201,
+    "fn": 20,
+    "tn": 507,
+    "f1": 0.17843866171003717
+  },
+  {
+    "language": "pharo",
+    "label": "Collaborators",
+    "arm": "SP",
+    "tp": 21,
+    "fp": 111,
+    "fn": 23,
+    "tn": 597,
+    "f1": 0.23863636363636365
+  }
+]

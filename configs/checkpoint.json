@@ -1,0 +1,76 @@
+{
+  "model_revision": "c9a2bfebc254878aee8c3aca9e6844d5bbb102d1",
+  "files": [
+    {
+      "file": "1_Pooling/config.json",
+      "url": "https://huggingface.co/sentence-transformers/paraphrase-MiniLM-L6-v2/resolve/c9a2bfebc254878aee8c3aca9e6844d5bbb102d1/1_Pooling/config.json",
+      "bytes": 190,
+      "sha256": "4be450dde3b0273bb9787637cfbd28fe04a7ba6ab9d36ac48e92b11e350ffc23"
+    },
+    {
+      "file": "README.md",
+      "url": "https://huggingface.co/sentence-transformers/paraphrase-MiniLM-L6-v2/resolve/c9a2bfebc254878aee8c3aca9e6844d5bbb102d1/README.md",
+      "bytes": 3513,
+      "sha256": "8de1a9ab4f83f29f1ea01d12b4e1c03d18781d3c0fabbd4044c01bd67dd40f78"
+    },
+    {
+      "file": "config.json",
+      "url": "https://huggingface.co/sentence-transformers/paraphrase-MiniLM-L6-v2/resolve/c9a2bfebc254878aee8c3aca9e6844d5bbb102d1/config.json",
+      "bytes": 629,
+      "sha256": "aed58fca2ba858ac31c042053f99deff1717ca0e7430335d316d58b2d13a046b"
+    },
+    {
+      "file": "config_sentence_transformers.json",
+      "url": "https://huggingface.co/sentence-transformers/paraphrase-MiniLM-L6-v2/resolve/c9a2bfebc254878aee8c3aca9e6844d5bbb102d1/config_sentence_transformers.json",
+      "bytes": 122,
+      "sha256": "b8c64b5cece00d8424b4896ea75b512b6008576088497609dfeb6bd63e6d36b8"
+    },
+    {
+      "file": "model.safetensors",
+      "url": "https://huggingface.co/sentence-transformers/paraphrase-MiniLM-L6-v2/resolve/c9a2bfebc254878aee8c3aca9e6844d5bbb102d1/model.safetensors",
+      "bytes": 90868373,
+      "sha256": "2ce4480dc3b2f8edeee50c43765c72768e79fc0113d3f73773dded4887cca298"
+    },
+    {
+      "file": "modules.json",
+      "url": "https://huggingface.co/sentence-transformers/paraphrase-MiniLM-L6-v2/resolve/c9a2bfebc254878aee8c3aca9e6844d5bbb102d1/modules.json",
+      "bytes": 229,
+      "sha256": "8f4b264b80206c830bebbdcae377e137925650a433b689343a63bdc9b3145460"
+    },
+    {
+      "file": "sentence_bert_config.json",
+      "url": "https://huggingface.co/sentence-transformers/paraphrase-MiniLM-L6-v2/resolve/c9a2bfebc254878aee8c3aca9e6844d5bbb102d1/sentence_bert_config.json",
+      "bytes": 53,
+      "sha256": "70f4448f31320443fe3557cacea5abf2dcc4915dda8c80646bec9f3bb0aa5a1f"
+    },
+    {
+      "file": "special_tokens_map.json",
+      "url": "https://huggingface.co/sentence-transformers/paraphrase-MiniLM-L6-v2/resolve/c9a2bfebc254878aee8c3aca9e6844d5bbb102d1/special_tokens_map.json",
+      "bytes": 112,
+      "sha256": "303df45a03609e4ead04bc3dc1536d0ab19b5358db685b6f3da123d05ec200e3"
+    },
+    {
+      "file": "tokenizer.json",
+      "url": "https://huggingface.co/sentence-transformers/paraphrase-MiniLM-L6-v2/resolve/c9a2bfebc254878aee8c3aca9e6844d5bbb102d1/tokenizer.json",
+      "bytes": 466081,
+      "sha256": "5fd1c882abbd30517dced455a2c9768945ec726b96727927e4959348d9de550b"
+    },
+    {
+      "file": "tokenizer_config.json",
+      "url": "https://huggingface.co/sentence-transformers/paraphrase-MiniLM-L6-v2/resolve/c9a2bfebc254878aee8c3aca9e6844d5bbb102d1/tokenizer_config.json",
+      "bytes": 314,
+      "sha256": "65f933db3e0493bcde9a4e1b8fd5ee13f18d2f8ac62db911a1be51b7fd64ffb0"
+    },
+    {
+      "file": "vocab.txt",
+      "url": "https://huggingface.co/sentence-transformers/paraphrase-MiniLM-L6-v2/resolve/c9a2bfebc254878aee8c3aca9e6844d5bbb102d1/vocab.txt",
+      "bytes": 231508,
+      "sha256": "07eced375cec144d27c900241f3e339478dec958f92fddbc551f295c992038a3"
+    }
+  ],
+  "total_bytes": 91571124,
+  "baseline_commit": "65d7ef513a1d66bd0dddd35fa9bd2e273eacde92",
+  "baseline_url": "https://raw.githubusercontent.com/nlbse2026/code-comment-classification/65d7ef513a1d66bd0dddd35fa9bd2e273eacde92/SetFit_baseline.ipynb",
+  "notebook_outputs_discarded": true,
+  "datasets_requested": false
+}
